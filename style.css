@@ -82,3 +82,43 @@ main{
     font-weight: 600;
     color: #007185;
 }
+
+.cont-shop{
+    background-color: #eaecec;
+    margin-top: 30px;
+    padding: 15px 0;
+}
+
+.negozi{
+    background-color: white;
+    width: 23%;
+    display: inline-block;
+}
+
+.titoli{
+    text-align: left;
+    padding: 0 35px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.row {
+    text-align: center;
+}
+
+.riquadri {
+    display: inline-block;
+    vertical-align: top;
+    width: 45%;        
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.riquadri img {
+    width: 100%;
+    height: auto;
+}
+
+
+
+
