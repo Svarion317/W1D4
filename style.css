@@ -91,9 +91,16 @@ main{
 
 .negozi{
     background-color: white;
-    width: 23%;
+    height: 400px;
     display: inline-block;
+    width: 25%;  
+    margin: 1%;  
+    vertical-align: top;
+    box-sizing: border-box;
 }
+
+
+
 
 .titoli{
     text-align: left;
@@ -119,6 +126,10 @@ main{
     height: auto;
 }
 
-
+.riquadri img{
+    object-fit: cover;
+    width: 90%;
+    height: 100px;
+}
 
 
